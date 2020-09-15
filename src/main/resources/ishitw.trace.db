@@ -1,0 +1,5 @@
+2020-09-15 15:40:43 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM TASK
+SELECT[*] * FROM USER"; SQL statement:
+select * from task
+select * from user [42000-200]
